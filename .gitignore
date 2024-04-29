@@ -5,6 +5,7 @@ static_files
 /data/
 static/
 */*.pdf
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__
