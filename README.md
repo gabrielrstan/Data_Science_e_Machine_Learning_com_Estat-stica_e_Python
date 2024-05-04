@@ -3,7 +3,7 @@ Curso encontrado na plataforma Udemy e ministrado pelo professor Danilo Moreira.
 
 
 # Conteudo:
-Formação Cientista de Dados Curso Completo de Ciência de Dados, Aprendizado de Máquina e Inteligência Artificial. <br>
+Formação Cientista de Dados: Curso Completo de Ciência de Dados, Aprendizado de Máquina e Inteligência Artificial. <br>
 Fundamentos da Linguagem Python, Estatística para Data Science, <br>
 Teoria e Prática de Modelos de Machine Learning, Fundamentos de Pandas, <br>
 Fundamentos de Numpy, Visualização de Dados com Matplotlib e Seaborn, <br>
