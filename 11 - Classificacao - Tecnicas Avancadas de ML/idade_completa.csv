@@ -1,4 +1,4 @@
-IdPassageiro,Idade
+PassengerId,Age
 1,22.0
 2,38.0
 3,26.0
